@@ -1,4 +1,6 @@
 # Titanic Prediction Competition in Kaggle
 Available @ https://www.kaggle.com/c/titanic  
-I used a NN, tweaking the parameters until getting ~80% acc in training 
-Got a 0.68181 Score
+I used a NN, tweaking the parameters and added Dropout  
+Got 0.70574 
+
+P.S. Accuracy curve shows overfitting, still need to fix it
