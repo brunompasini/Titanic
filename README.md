@@ -4,3 +4,4 @@ I used a NN, tweaking the parameters and added Dropout
 Got 0.73923  
 
 P.S. Accuracy curve shows overfitting, still need to fix it
+tho using callbacks reduced the validation score
